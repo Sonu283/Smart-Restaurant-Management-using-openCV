@@ -5,12 +5,13 @@ A cutting-edge AI-powered solution for **automated inventory management**, **rea
 ---
 
 ## 👨‍💻 Team
+**CYBERPUNK**
 
-**Team Name**:  
-- Satwik Kishore  
-- Neeharika Joshi  
+**Member Name**:  
 - Sonu Pandit  
-- Shubham Pandit  
+- Shubham Pandit
+- Neeharika Joshi  
+- Satwik Kishore   
 
 **Institution**: Marwadi University
 
